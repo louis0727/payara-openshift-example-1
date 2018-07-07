@@ -30,7 +30,7 @@ objects:
         from:
           kind: ImageStreamTag
           name: payara-maven3-s2i-builder:latest
-          namespace: pyr-s2i
+          namespace: nextstepman
         incremental: true
       type: Source
     triggers:
