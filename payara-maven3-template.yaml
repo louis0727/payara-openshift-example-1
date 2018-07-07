@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Template
 metadata:
-  name: payara-maven3
+  name: payara-maven3-louis
 objects:
 - apiVersion: v1
   kind: BuildConfig
